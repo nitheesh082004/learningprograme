@@ -1,0 +1,14 @@
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\bin\Debug\net9.0\02_FinancialForecast.exe
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\bin\Debug\net9.0\02_FinancialForecast.deps.json
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\bin\Debug\net9.0\02_FinancialForecast.runtimeconfig.json
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\bin\Debug\net9.0\02_FinancialForecast.dll
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\bin\Debug\net9.0\02_FinancialForecast.pdb
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.AssemblyInfoInputs.cache
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.AssemblyInfo.cs
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.csproj.CoreCompileInputs.cache
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.dll
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\refint\02_FinancialForecast.dll
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.pdb
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\02_FinancialForecast.genruntimeconfig.cache
+C:\Week2_DesignPatternsAndPrinciples\02_FinancialForecast\obj\Debug\net9.0\ref\02_FinancialForecast.dll

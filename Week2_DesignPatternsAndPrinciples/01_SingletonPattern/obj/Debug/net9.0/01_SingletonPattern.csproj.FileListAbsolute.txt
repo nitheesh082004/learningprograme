@@ -1,0 +1,14 @@
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.exe
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.deps.json
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.runtimeconfig.json
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.dll
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\bin\Debug\net9.0\01_SingletonPattern.pdb
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.AssemblyInfoInputs.cache
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.AssemblyInfo.cs
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.dll
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\refint\01_SingletonPattern.dll
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.pdb
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\01_SingletonPattern.genruntimeconfig.cache
+C:\Week1_Algorithms_DataStructures\01_SingletonPattern\obj\Debug\net9.0\ref\01_SingletonPattern.dll

@@ -1,0 +1,14 @@
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.exe
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.deps.json
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.runtimeconfig.json
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.dll
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\bin\Debug\net9.0\01_EcommerceSearch.pdb
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.AssemblyInfoInputs.cache
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.AssemblyInfo.cs
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.dll
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\refint\01_EcommerceSearch.dll
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.pdb
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\01_EcommerceSearch.genruntimeconfig.cache
+C:\Week2_DesignPatternsAndPrinciples\01_EcommerceSearch\obj\Debug\net9.0\ref\01_EcommerceSearch.dll
