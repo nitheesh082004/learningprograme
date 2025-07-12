@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|c:\\users\\johni\\source\\repos\\mywebapidemo\\mywebapidemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|solutionrelative:mywebapidemo\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|c:\\users\\johni\\source\\repos\\mywebapidemo\\mywebapidemo\\mywebapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|solutionrelative:mywebapidemo\\mywebapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|c:\\users\\johni\\source\\repos\\mywebapidemo\\mywebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D903F8D-5413-488E-87B4-64FB9C35FD88}|MyWebApiDemo\\MyWebApiDemo.csproj|solutionrelative:mywebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyWebApiDemo",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\MyWebApiDemo.csproj",
+              "RelativeDocumentMoniker": "MyWebApiDemo\\MyWebApiDemo.csproj",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\MyWebApiDemo.csproj*",
+              "RelativeToolTip": "MyWebApiDemo\\MyWebApiDemo.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T08:45:02.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\Program.cs",
+              "RelativeToolTip": "MyWebApiDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:41:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyWebApiDemo\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\MyWebApiDemo\\MyWebApiDemo\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyWebApiDemo\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:32:32.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

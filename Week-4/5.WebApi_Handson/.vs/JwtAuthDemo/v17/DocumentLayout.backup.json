@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\johni\\source\\repos\\jwtauthdemo\\jwtauthdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\johni\\source\\repos\\jwtauthdemo\\jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\johni\\source\\repos\\jwtauthdemo\\jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\johni\\source\\repos\\jwtauthdemo\\jwtauthdemo\\jwtauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\jwtauthdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|c:\\users\\johni\\source\\repos\\jwtauthdemo\\jwtauthdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A08874C-509D-4376-88D0-1FAD3EC0ED69}|JwtAuthDemo\\JwtAuthDemo.csproj|solutionrelative:jwtauthdemo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:50:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Program.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:49:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:51:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtAuthDemo",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.csproj",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\JwtAuthDemo.csproj",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\JwtAuthDemo.csproj",
+              "RelativeToolTip": "JwtAuthDemo\\JwtAuthDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T09:53:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Startup.cs",
+              "RelativeDocumentMoniker": "JwtAuthDemo\\Startup.cs",
+              "ToolTip": "C:\\Users\\johni\\source\\repos\\JwtAuthDemo\\JwtAuthDemo\\Startup.cs",
+              "RelativeToolTip": "JwtAuthDemo\\Startup.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T09:48:54.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
